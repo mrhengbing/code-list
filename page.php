@@ -1,6 +1,6 @@
 <?php
 	/**
-	 * 分页类
+	 * 这是一个分页类
 	 */
 	class Page{
 		private $total;					//总记录数
