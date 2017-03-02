@@ -1,10 +1,5 @@
 <?php
 /**
- * @Author: mrhengbing
- * @Email:  415671062@qq.com
- * @Create time:   2017-02-28 10:46:15
- * @Last Modified by:   mrhengbing
- * @Last Modified time: 2017-03-02 17:44:13
  * 这是一个单列模式连接数据库类
  */
 class Db{
