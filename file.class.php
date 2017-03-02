@@ -1,10 +1,5 @@
 <?php
 /**
- * @Author: mrhengbing
- * @Email:  415671062@qq.com
- * @Create time:   2017-02-27 17:48:01
- * @Last Modified by:   mrhengbing
- * @Last Modified time: 2017-02-27 18:21:54
  * 这是一个静态缓存类
  */
 class File{
