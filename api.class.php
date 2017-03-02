@@ -1,11 +1,6 @@
 <?php
 /**
- * @Author: mrhengbing
- * @Email:  415671062@qq.com
- * @Date:   2016-04-21 23:44:17
- * @Last Modified by:   mrhengbing
- * @Last Modified time: 2017-02-27 17:47:35
- * ------------APP接口返回数据方式的封装类 ------------
+ * APP接口返回数据方式的封装类
  */
 
 class Api{ 
