@@ -12,7 +12,7 @@ class Magic {
     protected $str = 'example';
 
     /**
-     * 当对象被创建时调用
+     * 当对象被创建时调用，一般用来执行一些初始化任务，该方法又叫构造方法
      */
     public function __construct(){
         echo '__construct is called.<br>';
@@ -136,7 +136,7 @@ class Magic {
      * 当使用用var_dump()打印对象时被调用，适用于PHP5.6
      * @return [type] [description]
      */
-    public function __debuginfo(){
+    public function __debugInfo(){
         echo '__debuginfo is called.<br>';
     }
 
