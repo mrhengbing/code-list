@@ -45,7 +45,7 @@ class Magic {
     }
 
     /**
-     * 对不可访问或不存在的属性使用isset()或empty()时被调用
+     * 对不可访问或不存在的属性使用isset()时被调用
      * @param  [type]  $name 属性名
      */
     public function __isset($name){
